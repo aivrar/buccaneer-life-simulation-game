@@ -1,0 +1,6 @@
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = https://github.com/ggml-org/llama.cpp.git
+[submodule "llama.cpp-tq"]
+	path = llama.cpp-tq
+	url = https://github.com/TheTom/llama-cpp-turboquant.git
