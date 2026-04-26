@@ -156,7 +156,7 @@ The engine is built for a future where **you** are one of the agents. The simula
 ### 1. Clone
 
 ```bash
-git clone --recurse-submodules https://github.com/rookiemann/buccaneer-life-simulation-game.git
+git clone --recurse-submodules https://github.com/aivrar/buccaneer-life-simulation-game.git
 cd buccaneer-life-simulation-game
 ```
 
